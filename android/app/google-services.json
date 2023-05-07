@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "409764729856",
+    "project_id": "readabletapi",
+    "storage_bucket": "readabletapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409764729856:android:fe63567f677da37b79f4e5",
+        "android_client_info": {
+          "package_name": "com.mycompany.readablet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409764729856-q85u6eu2c4gdqbp5bm19dnfoco096sv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.readablet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "409764729856-5gnpggev25vgg4m52oirrrt0r81tqh0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96GYJJW_XXM0k6wKWlgkvAlTdkEoqhpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409764729856-5gnpggev25vgg4m52oirrrt0r81tqh0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409764729856-1072ecvb1a33eromnhg2rc0d2aibno89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olinoleum.readablet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409764729856:android:f169dd464e44b65579f4e5",
+        "android_client_info": {
+          "package_name": "com.olinoleum.readablet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409764729856-n42ebafese49k00hr3k27vlgtk10hfgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olinoleum.readablet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "409764729856-5gnpggev25vgg4m52oirrrt0r81tqh0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96GYJJW_XXM0k6wKWlgkvAlTdkEoqhpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409764729856-5gnpggev25vgg4m52oirrrt0r81tqh0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409764729856-1072ecvb1a33eromnhg2rc0d2aibno89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olinoleum.readablet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
